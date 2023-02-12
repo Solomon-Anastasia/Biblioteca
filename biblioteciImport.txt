@@ -1,0 +1,3 @@
+Carte5,Mihai Eminescu,Romantica,200,Chisinau,74464743,Biblioteca6,3
+Carte5,Mihai Eminescu,Romantica,200,Chisinau,74464743,Biblioteca7,3
+Carte5,Mihai Eminescu,Romantica,800,Chisinau,74464743,Biblioteca8,3
